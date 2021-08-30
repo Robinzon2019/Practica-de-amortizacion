@@ -356,3 +356,4 @@ C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMP
 C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\Third practice\Third practice\obj\Debug\net5.0\Third practice.pdb
 C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\Third practice\Third practice\obj\Debug\net5.0\Third practice.genruntimeconfig.cache
 C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\Third practice\Third practice\obj\Debug\net5.0\Razor\Pages\Prestamo.cshtml.g.cs
+C:\Users\Robinson Montero\Documents\Desarrollo web\Curso de ASP.NET CORE de COMPUCIENCIAS\Third practice\Third practice\obj\Debug\net5.0\Razor\Pages\Cajero.cshtml.g.cs
